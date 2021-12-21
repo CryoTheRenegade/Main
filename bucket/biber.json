@@ -1,0 +1,21 @@
+{
+    "version": "v2.16",
+    "description": "The biblatex package is becoming the definitive citation management tool for LaTeX users. Biblatex provides a powerful and flexible macro interface for authors of citation styles.",
+    "homepage": "http://biblatex-biber.sourceforge.net/",
+    "license": "Artistic 2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://downloads.sourceforge.net/project/biblatex-biber/biblatex-biber/current/binaries/Windows/biber-MSWIN64.zip",
+            "hash": "sha512:a8d77df6a78dcd9013ac4e28ce5e8673a0b7d619993d9e6965ce6888dc08d1194ad9f2dbe34c308f2332e8f5903101f4c4f231321d3206f4cc2259ccfa7414ea"
+        }
+    },
+    "bin": "tectonic.exe",
+    "checkver": {
+        "url": "https://github.com/tectonic-typesetting/tectonic/tags",
+        "regex": "tag/v%40([\\d.]+)"
+    },
+            }
+        }
+    }
+
+}
