@@ -1,17 +1,14 @@
 {
-    "version": "7.3",
+    "version": "7.3.2",
     "description": "An open-source build automation tool focused on flexibility and performance. (Binaries only without documentation)",
     "homepage": "https://gradle.org",
     "license": "Apache-2.0",
     "suggest": {
-        "JDK": [
-            "java/oraclejdk",
-            "java/openjdk"
-        ]
+        "JDK": "java/openjdk"
     },
-    "url": "https://services.gradle.org/distributions/gradle-7.3-bin.zip",
-    "hash": "de8f52ad49bdc759164f72439a3bf56ddb1589c4cde802d3cec7d6ad0e0ee410",
-    "extract_dir": "gradle-7.3",
+    "url": "https://services.gradle.org/distributions/gradle-7.3.2-bin.zip",
+    "hash": "23b89f8eac363f5f4b8336e0530c7295c55b728a9caa5268fdd4a532610d5392",
+    "extract_dir": "gradle-7.3.2",
     "bin": "bin\\gradle.bat",
     "checkver": {
         "url": "https://gradle.org/install/",

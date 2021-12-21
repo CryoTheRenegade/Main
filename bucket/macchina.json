@@ -1,12 +1,12 @@
 {
-    "version": "5.0.0",
+    "version": "6.0.1",
     "description": "A system information fetcher, with an emphasis on performance and minimalism",
     "homepage": "https://github.com/Macchina-CLI/macchina",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Macchina-CLI/macchina/releases/download/v5.0.0/macchina-windows-x86_64.exe#/macchina.exe",
-            "hash": "830d5234b48c6741a98c6067e19ae915f15067e148a47b2f24b47d0fe5d930b9"
+            "url": "https://github.com/Macchina-CLI/macchina/releases/download/v6.0.1/macchina-windows-x86_64.exe#/macchina.exe",
+            "hash": "2f72e39a45afe54682ffe4eefdf8c05c7d474bc75d96f7860a5ba1efeefe9945"
         }
     },
     "bin": "macchina.exe",
