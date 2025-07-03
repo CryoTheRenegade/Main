@@ -1,16 +1,16 @@
 {
-    "version": "16055946379",
+    "version": "16056060016",
     "description": "cc65 - a freeware C compiler for 6502 based systems",
     "homepage": "https://cc65.github.io/",
     "license": "zlib-acknowledgement",
     "architecture": {
         "64bit": {
             "url": "https://downloads.sourceforge.net/project/cc65/cc65-snapshot-win64.zip",
-            "hash": "sha1:59df2c08a767342fbc85760b0b462ec52c225be1"
+            "hash": "sha1:1338e2ec90e1850f694b69fbdb565726d95a64ca"
         },
         "32bit": {
             "url": "https://downloads.sourceforge.net/project/cc65/cc65-snapshot-win32.zip",
-            "hash": "sha1:a396141654f9538a8e15975a0d178c9e9d6d99a1"
+            "hash": "sha1:93630bb3bb77502754d2a4bce412d16d66dc8488"
         }
     },
     "bin": [
